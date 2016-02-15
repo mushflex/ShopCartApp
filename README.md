@@ -1,0 +1,1 @@
+Simple Shopping Cart App using Angular.js
